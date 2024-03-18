@@ -13,7 +13,7 @@ From then onwards, `python3 -m install ...` should act exactly the same as `pyth
 
 Allow me to demonstrate:
 
-```sh
+```yaml
 $ python3 -m pip install install-is-pip-install
 ...
 Installing collected packages: install-is-pip-install
